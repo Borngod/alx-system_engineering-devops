@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-working shell comands
+i'm working on scripting
